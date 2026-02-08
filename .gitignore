@@ -14,3 +14,8 @@ source/*
 # Archive directory
 archive/*
 !archive/.gitignore
+
+# Build artifacts
+build/
+dist/
+*.spec
