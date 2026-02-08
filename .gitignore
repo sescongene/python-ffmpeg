@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories
+converted/*
+!converted/.gitignore
+
+# Source directory
+source/*
+!source/.gitignore
+
+# Archive directory
+archive/*
+!archive/.gitignore
